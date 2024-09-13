@@ -15,7 +15,7 @@ The dataset is specifically curated to capture the nuances of student emotions a
 **Applications:**
 - **Emotion Recognition:** Develop and validate models for accurate facial expression classification.
 - **Educational Research:** Study the impact of emotional states on learning and classroom dynamics.
-- **Human-Computer Interaction:** Enhance educational tools and virtual assistants with emotion recognition capabilities.
+- **Human-Computer Interaction:** Enhance educational tools and virtual assistants with emotion recognition capabilities..
 
 **Data Collection:**
 Images were systematically collected from various classes within the PMAS- Arid Agriculture Rawalpindi, Pakistan, ensuring a representative sample of different emotional states in academic contexts. This deliberate approach ensures the dataset accurately reflects the diverse ways in which students express emotions and maintain focus.
